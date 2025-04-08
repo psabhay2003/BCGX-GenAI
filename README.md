@@ -5,7 +5,7 @@ The objective is to develop an ****AI-powered financial chatbot**** that analyze
 
 The program is divided into two tasks:
 
-#Task 1
+# Task 1
 - Extract financial data from the provided 10-K documents.
 * Conduct a basic analysis to identify significant financial trends and indicators.
 + Format and clean the data for further processing in an AI model.
