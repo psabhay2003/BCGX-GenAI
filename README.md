@@ -13,4 +13,4 @@ The program is divided into two tasks:
 # Task 2
 - Develop an AI chatbot that can analyze financial data and provide insights.
 * Integrate the previously extracted and analyzed data into the chatbot system.
-+ Test the chatbot to ensure it can effectively communicate financial performance insights and comparisons.
++ Test the chatbot to ensure it can effectively communicate financial performance, insights and comparisons.
